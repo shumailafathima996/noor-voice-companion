@@ -109,12 +109,8 @@ Try wake word and commands
 
 Observe waveform visualization and spoken feedback
 
-🖼️ Final Gallery
-Screenshots (examples):
 
-Noor Home Interface
-
-Voice Assistant Features:
+👩‍🦯Voice Assistant Features:
 
 Family contact calling
 
