@@ -169,7 +169,7 @@ B. Srividya
 Azmath Fatima
 
 📂 Project Structure
-plaintext
+
 frontend/
   index.html
   styles.css
